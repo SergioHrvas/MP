@@ -1,8 +1,8 @@
 # MP
 Práctica final realizada en el segundo cuatrimestre de Ingeniería Informática en la UGR.
 La idea era realizar un robot ("Wally") que 'aspirase' puntos generados aleatoriamente en el mapa.
-El robot va moviendose por el mapa hasta puntos aleatorios aspirando todos los puntos con los que se encuentre. Una vez lleno su depósito, tendrá que volver al centro del mapa a vaciar todo. 
-Los módulos de Pintar, Miniwin fue proporcionado por el docente para trabajar con estos.
+El robot va moviendose por toda la cuadricula hasta coordenadas aleatorias aspirando todos los puntos con los que se encuentre. Una vez su depósito esté lleno, tendrá que volver al centro del mapa a vaciar todo. 
+Los módulos de Pintar y Miniwin fueron proporcionados por el docente.
 ![](gif_wally.gif)
 ![](img1.png)
 ![](img2.png)
